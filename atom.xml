@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://baby-blue.site/"/>
-  <updated>2017-02-07T16:13:41.614Z</updated>
+  <updated>2017-02-07T16:22:17.143Z</updated>
   <id>http://baby-blue.site/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://baby-blue.site/2017/02/07/VIM-summing-up/"/>
     <id>http://baby-blue.site/2017/02/07/VIM-summing-up/</id>
     <published>2017-02-07T04:55:27.000Z</published>
-    <updated>2017-02-07T16:13:41.614Z</updated>
+    <updated>2017-02-07T16:22:17.143Z</updated>
     
     <content type="html"><![CDATA[<hr>
 <p>&#x603B;&#x7ED3;&#x4E00;&#x4E9B;vim&#x7684;&#x4F7F;&#x7528;&#xFF0C;&#x4FBF;&#x4E8E;&#x67E5;&#x8BE2;&#x3002;<br><a id="more"></a></p>
@@ -43,65 +43,65 @@
 <table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>h</strong></td>
+<td style="text-align:left"><strong>h</strong></td>
 <td style="text-align:left">&#x5DE6;&#x79FB;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>j</strong></td>
+<td style="text-align:left"><strong>j</strong></td>
 <td style="text-align:left">&#x4E0B;&#x79FB;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>k</strong></td>
+<td style="text-align:left"><strong>k</strong></td>
 <td style="text-align:left">&#x4E0A;&#x79FB;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>l</strong></td>
+<td style="text-align:left"><strong>l</strong></td>
 <td style="text-align:left">&#x53F3;&#x79FB;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>0</strong>(&#x6570;&#x5B57;0)</td>
+<td style="text-align:left"><strong>0</strong>(&#x6570;&#x5B57;0)</td>
 <td style="text-align:left">&#x79FB;&#x81F3;&#x672C;&#x884C;<strong>&#x5F00;&#x5934;</strong></td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>$</strong></td>
+<td style="text-align:left"><strong>$</strong></td>
 <td style="text-align:left">&#x79FB;&#x52A8;&#x81F3;&#x672C;&#x884C;<strong>&#x672B;&#x5C3E;</strong></td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>^</strong></td>
+<td style="text-align:left"><strong>^</strong></td>
 <td style="text-align:left">&#x79FB;&#x52A8;&#x81F3;&#x672C;&#x884C;&#x7B2C;&#x4E00;&#x4E2A;&#x975E;&#x7A7A;&#x5B57;&#x7B26;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>w</strong></td>
+<td style="text-align:left"><strong>w</strong></td>
 <td style="text-align:left"><strong>&#x5411;&#x524D;</strong>&#x79FB;&#x52A8;&#x4E00;&#x4E2A;&#x5355;&#x8BCD;(&#x4E0A;&#x4E00;&#x4E2A;&#x5B57;&#x6BCD;&#x548C;&#x6570;&#x5B57;&#x7EC4;&#x6210;&#x7684;&#x8BCD;&#x4E4B;&#x540E;)</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>W</strong></td>
+<td style="text-align:left"><strong>W</strong></td>
 <td style="text-align:left"><strong>&#x5411;&#x524D;</strong> &#x79FB;&#x52A8;&#x4E00;&#x4E2A;&#x5355;&#x8BCD;(&#x4EE5;&#x7A7A;&#x683C;&#x5206;&#x9694;&#x7684;&#x8BCD;)</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>5w</strong></td>
+<td style="text-align:left"><strong>5w</strong></td>
 <td style="text-align:left">&#x5411;&#x524D;&#x79FB;&#x52A8;5&#x4E2A;&#x8BCD;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>b </strong></td>
+<td style="text-align:left"><strong>b </strong></td>
 <td style="text-align:left"><strong>&#x5411;&#x540E;</strong>&#x79FB;&#x52A8;&#x4E00;&#x4E2A;&#x8BCD;(&#x4E0B;&#x4E00;&#x4E2A;&#x5B57;&#x6BCD;&#x548C;&#x6570;&#x5B57;&#x7EC4;&#x6210;&#x7684;&#x8BCD;&#x4E4B;&#x524D;)</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>B</strong></td>
+<td style="text-align:left"><strong>B</strong></td>
 <td style="text-align:left"><strong>&#x5411;&#x540E;</strong>&#x79FB;&#x52A8;&#x4E00;&#x4E2A;&#x8BCD;(&#x4EE5;&#x7A7A;&#x683C;&#x5206;&#x9694;&#x7684;&#x8BCD;)</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>G</strong></td>
+<td style="text-align:left"><strong>G</strong></td>
 <td style="text-align:left">&#x79FB;&#x52A8;&#x81F3;&#x6587;&#x4EF6;<strong>&#x672B;&#x5C3E;</strong></td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>gg</strong></td>
+<td style="text-align:left"><strong>gg</strong></td>
 <td style="text-align:left">&#x79FB;&#x52A8;&#x81F3;&#x6587;&#x4EF6;<strong>&#x5F00;&#x5934;</strong></td>
 </tr>
 </tbody>
@@ -109,41 +109,41 @@
 <h3 id="&#x6D4F;&#x89C8;&#x6587;&#x6863;"><a href="#&#x6D4F;&#x89C8;&#x6587;&#x6863;" class="headerlink" title="&#x6D4F;&#x89C8;&#x6587;&#x6863;"></a>&#x6D4F;&#x89C8;&#x6587;&#x6863;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>(</strong></td>
+<td style="text-align:left"><strong>(</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0A;&#x4E00;&#x53E5;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>)</strong></td>
+<td style="text-align:left"><strong>)</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0B;&#x4E00;&#x53E5;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>{</strong></td>
+<td style="text-align:left"><strong>{</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0A;&#x4E00;&#x6BB5;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>}</strong></td>
+<td style="text-align:left"><strong>}</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0B;&#x4E00;&#x6BB5;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>[[</strong></td>
+<td style="text-align:left"><strong>[[</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0A;&#x4E00;&#x90E8;&#x5206;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>]]</strong></td>
+<td style="text-align:left"><strong>]]</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0B;&#x4E00;&#x90E8;&#x5206;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>[]</strong></td>
+<td style="text-align:left"><strong>[]</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0A;&#x4E00;&#x90E8;&#x5206;&#x7684;&#x672B;&#x5C3E;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>][</strong></td>
+<td style="text-align:left"><strong>][</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E0A;&#x4E00;&#x90E8;&#x5206;&#x7684;&#x5F00;&#x5934;</td>
 </tr>
 </tbody>
@@ -151,29 +151,29 @@
 <h3 id="&#x63D2;&#x5165;&#x6587;&#x672C;"><a href="#&#x63D2;&#x5165;&#x6587;&#x672C;" class="headerlink" title="&#x63D2;&#x5165;&#x6587;&#x672C;"></a>&#x63D2;&#x5165;&#x6587;&#x672C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>a</strong></td>
+<td style="text-align:left"><strong>a</strong></td>
 <td style="text-align:left">&#x5728;<strong>&#x5149;&#x6807;&#x540E;</strong>&#x63D2;&#x5165;&#x6587;&#x672C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>A</strong></td>
+<td style="text-align:left"><strong>A</strong></td>
 <td style="text-align:left">&#x5728;<strong>&#x884C;&#x672B;&#x5C3E;</strong>&#x63D2;&#x5165;&#x6587;&#x672C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>i</strong></td>
+<td style="text-align:left"><strong>i</strong></td>
 <td style="text-align:left">&#x5728;<strong>&#x5149;&#x6807;&#x524D;</strong>&#x63D2;&#x5165;&#x6587;&#x672C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>o</strong></td>
+<td style="text-align:left"><strong>o</strong></td>
 <td style="text-align:left">&#x5728;&#x5149;&#x6807;<strong>&#x4E0B;&#x65B9;</strong>&#x65B0;&#x5F00;&#x4E00;&#x884C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>O</strong></td>
+<td style="text-align:left"><strong>O</strong></td>
 <td style="text-align:left">&#x5728;&#x5149;&#x6807;<strong>&#x4E0A;&#x65B9;</strong>&#x65B0;&#x5F00;&#x4E00;&#x884C;</td>
 </tr>
 </tbody>
@@ -181,17 +181,17 @@
 <h3 id="&#x7279;&#x6B8A;&#x63D2;&#x5165;"><a href="#&#x7279;&#x6B8A;&#x63D2;&#x5165;" class="headerlink" title="&#x7279;&#x6B8A;&#x63D2;&#x5165;"></a>&#x7279;&#x6B8A;&#x63D2;&#x5165;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>:r [filename]</strong></td>
+<td style="text-align:left"><strong>:r [filename]</strong></td>
 <td style="text-align:left">&#x5728;&#x5149;&#x6807;&#x4E0B;&#x65B9;&#x63D2;&#x5165;&#x6587;&#x4EF6;[filename]&#x7684;&#x5185;&#x5BB9;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:r ![command]</strong></td>
+<td style="text-align:left"><strong>:r ![command]</strong></td>
 <td style="text-align:left">&#x6267;&#x884C;[command],&#x5E76;&#x5C06;&#x8F93;&#x5165;&#x63D2;&#x5165;&#x81F3;&#x5149;&#x6807;&#x4E0B;&#x65B9;</td>
 </tr>
 </tbody>
@@ -199,45 +199,45 @@
 <h3 id="&#x5220;&#x9664;&#x6587;&#x672C;"><a href="#&#x5220;&#x9664;&#x6587;&#x672C;" class="headerlink" title="&#x5220;&#x9664;&#x6587;&#x672C;"></a>&#x5220;&#x9664;&#x6587;&#x672C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>x</strong></td>
+<td style="text-align:left"><strong>x</strong></td>
 <td style="text-align:left">&#x5220;&#x9664;&#x5149;&#x6807;&#x5904;&#x5B57;&#x7B26;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>dw</strong></td>
+<td style="text-align:left"><strong>dw</strong></td>
 <td style="text-align:left">&#x5220;&#x9664;&#x4E00;&#x4E2A;&#x8BCD;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>d0</strong>(&#x6570;&#x5B57;0)</td>
+<td style="text-align:left"><strong>d0</strong>(&#x6570;&#x5B57;0)</td>
 <td style="text-align:left">&#x5220;&#x81F3;&#x884C;&#x9996;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>d$</strong></td>
+<td style="text-align:left"><strong>d$</strong></td>
 <td style="text-align:left">&#x5220;&#x81F3;&#x884C;&#x672B;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>d)</strong></td>
+<td style="text-align:left"><strong>d)</strong></td>
 <td style="text-align:left">&#x5220;&#x81F3;&#x53E5;&#x672B;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>dgg</strong></td>
+<td style="text-align:left"><strong>dgg</strong></td>
 <td style="text-align:left">&#x5220;&#x81F3;&#x6587;&#x4EF6;&#x5F00;&#x5934;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>dG</strong></td>
+<td style="text-align:left"><strong>dG</strong></td>
 <td style="text-align:left">&#x5220;&#x81F3;&#x6587;&#x4EF6;&#x672B;&#x5C3E;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>dd</strong></td>
+<td style="text-align:left"><strong>dd</strong></td>
 <td style="text-align:left">&#x5220;&#x9664;&#x8BE5;&#x884C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>3dd</strong></td>
+<td style="text-align:left"><strong>3dd</strong></td>
 <td style="text-align:left">&#x5220;&#x9664;&#x4E09;&#x884C;</td>
 </tr>
 </tbody>
@@ -245,17 +245,17 @@
 <h3 id="&#x7B80;&#x5355;&#x66FF;&#x6362;&#x6587;&#x672C;"><a href="#&#x7B80;&#x5355;&#x66FF;&#x6362;&#x6587;&#x672C;" class="headerlink" title="&#x7B80;&#x5355;&#x66FF;&#x6362;&#x6587;&#x672C;"></a>&#x7B80;&#x5355;&#x66FF;&#x6362;&#x6587;&#x672C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>r{text}</strong></td>
+<td style="text-align:left"><strong>r{text}</strong></td>
 <td style="text-align:left">&#x5C06;&#x5149;&#x6807;&#x5904;&#x7684;&#x5B57;&#x7B26;&#x66FF;&#x6362;&#x6210;{text}</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>R</strong></td>
+<td style="text-align:left"><strong>R</strong></td>
 <td style="text-align:left">&#x8FDB;&#x5165;&#x590D;&#x5199;&#x6A21;&#x5F0F;&#xFF0C;&#x8F93;&#x5165;&#x7684;&#x5B57;&#x7B26;&#x5C06;&#x66FF;&#x6362;&#x539F;&#x6709;&#x7684;&#x5B57;&#x7B26;</td>
 </tr>
 </tbody>
@@ -263,25 +263,25 @@
 <h3 id="&#x590D;&#x5236;-&#x7C98;&#x8D34;&#x6587;&#x672C;"><a href="#&#x590D;&#x5236;-&#x7C98;&#x8D34;&#x6587;&#x672C;" class="headerlink" title="&#x590D;&#x5236;/&#x7C98;&#x8D34;&#x6587;&#x672C;"></a>&#x590D;&#x5236;/&#x7C98;&#x8D34;&#x6587;&#x672C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>yy</strong></td>
+<td style="text-align:left"><strong>yy</strong></td>
 <td style="text-align:left">&#x590D;&#x5236;&#x5F53;&#x524D;&#x884C;&#x81F3;&#x5B58;&#x50A8;&#x7F13;&#x51B2;&#x533A;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>[&#x201C;x]yy</strong></td>
+<td style="text-align:left"><strong>[&#x201C;x]yy</strong></td>
 <td style="text-align:left">&#x590D;&#x5236;&#x5F53;&#x524D;&#x884C;&#x81F3;&#x5BC4;&#x5B58;&#x5668;x</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>p</strong></td>
+<td style="text-align:left"><strong>p</strong></td>
 <td style="text-align:left">&#x5728;&#x5F53;&#x524D;&#x884C;<strong>&#x4E4B;&#x540E;</strong>&#x7C98;&#x8D34;&#x7F13;&#x51B2;&#x533A;&#x4E2D;&#x7684;&#x5185;&#x5BB9;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>P(&#x5927;&#x5199;)</strong></td>
+<td style="text-align:left"><strong>P(&#x5927;&#x5199;)</strong></td>
 <td style="text-align:left">&#x5728;&#x5F53;&#x524D;&#x884C;<strong>&#x4E4B;&#x524D;</strong>&#x7C98;&#x8D34;&#x7F13;&#x51B2;&#x533A;&#x4E2D;&#x7684;&#x5185;&#x5BB9;</td>
 </tr>
 </tbody>
@@ -289,17 +289,17 @@
 <h3 id="&#x64A4;&#x9500;-&#x91CD;&#x505A;&#x64CD;&#x4F5C;"><a href="#&#x64A4;&#x9500;-&#x91CD;&#x505A;&#x64CD;&#x4F5C;" class="headerlink" title="&#x64A4;&#x9500;/&#x91CD;&#x505A;&#x64CD;&#x4F5C;"></a>&#x64A4;&#x9500;/&#x91CD;&#x505A;&#x64CD;&#x4F5C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>u</strong></td>
+<td style="text-align:left"><strong>u</strong></td>
 <td style="text-align:left">&#x64A4;&#x9500;&#x6700;&#x540E;&#x7684;&#x64CD;&#x4F5C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>Ctrl+r</strong></td>
+<td style="text-align:left"><strong>Ctrl+r</strong></td>
 <td style="text-align:left">&#x91CD;&#x505A;&#x6700;&#x540E;&#x64A4;&#x9500;&#x7684;&#x64CD;&#x4F5C;</td>
 </tr>
 </tbody>
@@ -307,37 +307,37 @@
 <h3 id="&#x641C;&#x7D22;&#x548C;&#x66FF;&#x6362;"><a href="#&#x641C;&#x7D22;&#x548C;&#x66FF;&#x6362;" class="headerlink" title="&#x641C;&#x7D22;&#x548C;&#x66FF;&#x6362;"></a>&#x641C;&#x7D22;&#x548C;&#x66FF;&#x6362;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>/search_text</strong></td>
+<td style="text-align:left"><strong>/search_text</strong></td>
 <td style="text-align:left">&#x68C0;&#x7D22;&#x6587;&#x6863;&#xFF0C;&#x5728;&#x6587;&#x6863;<strong>&#x540E;&#x9762;</strong>&#x7684;&#x90E8;&#x5206;&#x641C;&#x7D22;search_text</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>?search_text</strong></td>
+<td style="text-align:left"><strong>?search_text</strong></td>
 <td style="text-align:left">&#x68C0;&#x7D22;&#x6587;&#x6863;&#xFF0C;&#x5728;&#x6587;&#x6863;<strong>&#x524D;&#x9762;</strong>&#x7684;&#x90E8;&#x5206;&#x641C;&#x7D22;search_text</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>n</strong></td>
+<td style="text-align:left"><strong>n</strong></td>
 <td style="text-align:left">&#x79FB;&#x52A8;&#x5230;<strong>*&#x540E;&#x4E00;&#x4E2A;</strong>&#x68C0;&#x7D22;&#x7ED3;&#x679C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>N</strong></td>
+<td style="text-align:left"><strong>N</strong></td>
 <td style="text-align:left">&#x79FB;&#x52A8;&#x5230;<strong>&#x524D;&#x4E00;&#x4E2A;</strong>&#x68C0;&#x7D22;&#x7ED3;&#x679C;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:%s/original/replacement</strong></td>
+<td style="text-align:left"><strong>:%s/original/replacement</strong></td>
 <td style="text-align:left">&#x68C0;&#x7D22;&#x7B2C;&#x4E00;&#x4E2A;&#x201C;original&#x201D;&#x66FF;&#x6362;&#x4E3A;&#x201C;replacement&#x201D;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:%s/original/replacement/g</strong></td>
+<td style="text-align:left"><strong>:%s/original/replacement/g</strong></td>
 <td style="text-align:left">&#x68C0;&#x7D22;&#x5E76;&#x5C06;&#x6240;&#x6709;&#x201C;original&#x201D;&#x66FF;&#x6362;&#x4E3A;&#x201C;replacement&#x201D;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:%s/original/replacement/gc</strong></td>
+<td style="text-align:left"><strong>:%s/original/replacement/gc</strong></td>
 <td style="text-align:left">&#x68C0;&#x7D22;&#x51FA;&#x6240;&#x6709;&#x201C;original&#x201D;,&#x4F46;&#x5728;&#x66FF;&#x6362;&#x4E3A;&#x201C;replacement&#x201D;&#x524D;&#xFF0C;&#x5148;&#x8BE2;&#x95EE;&#x662F;&#x5426;&#x66FF;&#x6362;</td>
 </tr>
 </tbody>
@@ -345,21 +345,21 @@
 <h3 id="&#x4E66;&#x7B7E;"><a href="#&#x4E66;&#x7B7E;" class="headerlink" title="&#x4E66;&#x7B7E;"></a>&#x4E66;&#x7B7E;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>m {a-zA-Z}</strong></td>
+<td style="text-align:left"><strong>m {a-zA-Z}</strong></td>
 <td style="text-align:left">&#x5728;&#x5F53;&#x524D;&#x5149;&#x6807;&#x4F4D;&#x7F6E;&#x8BBE;&#x7F6E;&#x4E66;&#x7B7E;&#xFF0C;&#x4E66;&#x7B7E;&#x540D;&#x53EF;&#x7528;&#x4E00;&#x4E2A;&#x5927;&#x5C0F;&#x5199;&#x5B57;&#x6BCD;{a-zA-Z}</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:marks</strong></td>
+<td style="text-align:left"><strong>:marks</strong></td>
 <td style="text-align:left">&#x5217;&#x51FA;&#x6240;&#x6709;&#x6807;&#x7B7E;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>{a-zA-Z}</strong></td>
+<td style="text-align:left"><strong>{a-zA-Z}</strong></td>
 <td style="text-align:left">&#x8DF3;&#x8F6C;&#x5230;&#x4E66;&#x7B7E;{a-zA-Z}</td>
 </tr>
 </tbody>
@@ -367,17 +367,17 @@
 <h3 id="&#x9009;&#x62E9;&#x6587;&#x672C;"><a href="#&#x9009;&#x62E9;&#x6587;&#x672C;" class="headerlink" title="&#x9009;&#x62E9;&#x6587;&#x672C;"></a>&#x9009;&#x62E9;&#x6587;&#x672C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>v</strong></td>
+<td style="text-align:left"><strong>v</strong></td>
 <td style="text-align:left">&#x9010;&#x5B57;&#x53EF;&#x89C6;&#x6A21;&#x5F0F;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>V</strong></td>
+<td style="text-align:left"><strong>V</strong></td>
 <td style="text-align:left">&#x9010;&#x884C;&#x53EF;&#x89C6;&#x6A21;&#x5F0F;</td>
 </tr>
 </tbody>
@@ -385,37 +385,37 @@
 <h3 id="&#x6539;&#x52A8;&#x9009;&#x4E2D;&#x6587;&#x672C;"><a href="#&#x6539;&#x52A8;&#x9009;&#x4E2D;&#x6587;&#x672C;" class="headerlink" title="&#x6539;&#x52A8;&#x9009;&#x4E2D;&#x6587;&#x672C;"></a>&#x6539;&#x52A8;&#x9009;&#x4E2D;&#x6587;&#x672C;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>~</strong></td>
+<td style="text-align:left"><strong>~</strong></td>
 <td style="text-align:left">&#x5207;&#x6362;&#x5927;&#x5C0F;&#x5199;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>d</strong></td>
+<td style="text-align:left"><strong>d</strong></td>
 <td style="text-align:left">&#x5220;&#x9664;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>c</strong></td>
+<td style="text-align:left"><strong>c</strong></td>
 <td style="text-align:left">&#x53D8;&#x66F4;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>y</strong></td>
+<td style="text-align:left"><strong>y</strong></td>
 <td style="text-align:left">&#x590D;&#x5236;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>&gt;</strong></td>
+<td style="text-align:left"><strong>&gt;</strong></td>
 <td style="text-align:left">&#x53F3;&#x79FB;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>&lt;</strong></td>
+<td style="text-align:left"><strong>&lt;</strong></td>
 <td style="text-align:left">&#x5DE6;&#x79FB;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>!</strong></td>
+<td style="text-align:left"><strong>!</strong></td>
 <td style="text-align:left">&#x901A;&#x8FC7;&#x5916;&#x90E8;&#x547D;&#x4EE4;&#x8FDB;&#x884C;&#x8FC7;&#x6EE4;</td>
 </tr>
 </tbody>
@@ -423,37 +423,37 @@
 <h3 id="&#x4FDD;&#x5B58;&#x5E76;&#x9000;&#x51FA;"><a href="#&#x4FDD;&#x5B58;&#x5E76;&#x9000;&#x51FA;" class="headerlink" title="&#x4FDD;&#x5B58;&#x5E76;&#x9000;&#x51FA;"></a>&#x4FDD;&#x5B58;&#x5E76;&#x9000;&#x51FA;</h3><table>
 <thead>
 <tr>
-<th style="text-align:center">&#x5FEB;&#x6377;&#x952E;</th>
+<th style="text-align:left">&#x5FEB;&#x6377;&#x952E;</th>
 <th style="text-align:left">&#x529F;&#x80FD;</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><strong>:q</strong></td>
+<td style="text-align:left"><strong>:q</strong></td>
 <td style="text-align:left">&#x9000;&#x51FA;vim&#xFF0C;&#x5982;&#x679C;&#x6587;&#x4EF6;&#x5DF2;&#x88AB;&#x4FEE;&#x6539;&#xFF0C;&#x5C06;&#x9000;&#x51FA;&#x5931;&#x8D25;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:w</strong></td>
+<td style="text-align:left"><strong>:w</strong></td>
 <td style="text-align:left">&#x4FDD;&#x5B58;&#x6587;&#x4EF6;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:w new_name</strong></td>
+<td style="text-align:left"><strong>:w new_name</strong></td>
 <td style="text-align:left">&#x7528;new_name&#x4F5C;&#x4E3A;&#x6587;&#x4EF6;&#x540D;&#x4FDD;&#x5B58;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:wq</strong></td>
+<td style="text-align:left"><strong>:wq</strong></td>
 <td style="text-align:left">&#x4FDD;&#x5B58;&#x5E76;&#x9000;&#x51FA;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>:q!</strong></td>
+<td style="text-align:left"><strong>:q!</strong></td>
 <td style="text-align:left">&#x9000;&#x51FA;&#xFF0C;&#x4E0D;&#x4FDD;&#x5B58;&#x6539;&#x52A8;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>ZZ</strong></td>
+<td style="text-align:left"><strong>ZZ</strong></td>
 <td style="text-align:left">&#x9000;&#x51FA;&#xFF0C;&#x5982;&#x679C;&#x6709;&#x6539;&#x52A8;&#x5219;&#x4FDD;&#x5B58;</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>ZQ</strong></td>
+<td style="text-align:left"><strong>ZQ</strong></td>
 <td style="text-align:left">&#x4E0E;:q!&#x76F8;&#x540C;</td>
 </tr>
 </tbody>
